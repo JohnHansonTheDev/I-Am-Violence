@@ -1,4 +1,9 @@
 # I-Am-Violence
+
+compile with gamemaker 
+or download and run the exe
+https://github.com/JohnHansonTheDev/I-Am-Violence/raw/main/IamViolenceTeaserDemo.exe
+
 top down shooting game, with 80s style feeling and graphics inspired by horror/action b-movies ,made in Gamemaker Studio
 
 using GLSL 
